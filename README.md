@@ -1,17 +1,16 @@
-# PROJECT TITLE
+# EPICODUS STUDENT PROJECTS
 
-#### Epicodus Tic Tac Toe, May 10 2017
+#### Epicodus 2017
 
 #### By Andrew Glines
 
 ## Description
 
-Tic Tac Toe game setup
-(Backend logic only for now)
+A repository for my student projects at Epicodus, from April to October 2017
 
 ## Setup/Installation Requirements
 
-* Clone repository "tictactoe"
+* Clone this repo to local machine
 * View in browser
 
 ## Known Bugs
@@ -29,9 +28,7 @@ aglines@gmail.com
 * JavaScript
 * jQuery
 
-
 ### License
 
 This page is licensed under the MIT license.
-
-Copyright (c) 2017 Epicodus Week N ____ Project
+Copyright (c) 2017 Epicodus and Andrew Glines
